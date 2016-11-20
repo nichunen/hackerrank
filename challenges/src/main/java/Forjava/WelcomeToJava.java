@@ -1,4 +1,4 @@
-package Forjava;
+package challenges.src.main.java.Forjava;
 
 /**
  * Created by mac on 16/11/8.

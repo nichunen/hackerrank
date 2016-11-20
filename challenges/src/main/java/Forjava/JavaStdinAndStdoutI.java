@@ -1,7 +1,6 @@
-package Forjava;
+package challenges.src.main.java.Forjava;
 
 import java.util.Scanner;
-
 /**
  * Created by mac on 16/11/14.
  */

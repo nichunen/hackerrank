@@ -1,4 +1,4 @@
-package Forjava;
+package challenges.src.main.java.Forjava;
 
 import java.util.Scanner;
 
